@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-labelledby="title desc">
+  <title id="title">Gatet taronja al costat d'un llac al capvespre</title>
+  <desc id="desc">Un gatet taronja descansa vora un llac, davant de muntanyes violetes i un sol ponent.</desc>
+  <defs>
+    <linearGradient id="cel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7867d9"/>
+      <stop offset="1" stop-color="#f4a978"/>
+    </linearGradient>
+    <linearGradient id="aigua" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6e86c7"/>
+      <stop offset="1" stop-color="#303b70"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="480" fill="url(#cel)"/>
+  <circle cx="438" cy="164" r="58" fill="#ffe2a3"/>
+  <path d="M0 276 138 119l117 145 99-119 181 178H0Z" fill="#514d91"/>
+  <path d="m138 119 39 68-42-17-32 35Zm216 26 41 55-49-21-31 23Z" fill="#e4d6ff"/>
+  <path d="M0 302q160-36 320 0t320 0v178H0Z" fill="url(#aigua)"/>
+  <path d="M0 332q160-28 320 0t320 0M0 373q160-20 320 0t320 0M0 420q160-17 320 0t320 0" fill="none" stroke="#d2b6ef" stroke-opacity=".5" stroke-width="4"/>
+  <path d="M0 302q160-36 320 0t320 0v22q-160-35-320 0T0 324Z" fill="#384477"/>
+  <g transform="translate(140 125) scale(0.65)">
+    <path d="M375 341c-23 2-25-17-11-25 9-5 17-1 16 6" fill="none" stroke="#e9823d" stroke-width="8" stroke-linecap="round"/>
+    <ellipse cx="380" cy="338" rx="22" ry="15" fill="#f29a50"/>
+    <path d="M367 346v10m23-10v10" stroke="#e9823d" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="397" cy="321" r="15" fill="#f29a50"/>
+    <path d="m385 311 2-13 10 8m4 0 11-8 1 15" fill="#f29a50" stroke="#e9823d" stroke-width="3" stroke-linejoin="round"/>
+    <path d="m389 307 1-5 4 5m9 0 4-5 1 5" fill="#f6c1a2"/>
+    <ellipse cx="392" cy="320" rx="1.7" ry="2.6" fill="#292d50"/>
+    <ellipse cx="402" cy="320" rx="1.7" ry="2.6" fill="#292d50"/>
+    <path d="m395 325 2 1 2-1m-2 1v2m0 0-3 2m3-2 3 2" fill="none" stroke="#8f4c39" stroke-width="1.4" stroke-linecap="round"/>
+    <path d="m389 326-9-2m9 5-9 1m22-4 8-2m-8 5 8 1" stroke="#fff1df" stroke-width="1.2" stroke-linecap="round"/>
+  </g>
+  <g fill="#292d50">
+    <path d="M62 329h13v95H62zM51 355l17-45 18 45zm7 27 10-32 12 32z"/>
+    <path d="M126 345h10v75h-10zM117 367l14-37 15 37zm6 22 8-27 10 27z"/>
+    <path d="M544 320h14v108h-14zM532 352l19-51 20 51zm7 31 12-37 13 37z"/>
+    <path d="M590 344h10v76h-10zM580 366l15-39 15 39zm6 23 9-29 10 29z"/>
+  </g>
+</svg>
